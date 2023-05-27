@@ -1,2 +1,2 @@
 # C-plus-plus
-All my C++ things!
+C++ Calculator!
